@@ -19,7 +19,7 @@ msgstr ""
 
 #: admin.py:25
 msgid "Blog entries in category"
-msgstr ""
+msgstr "Billets dans cette catégorie"
 
 #: contents.py:21 models.py:32
 msgid "category"
@@ -27,47 +27,47 @@ msgstr "catégorie"
 
 #: contents.py:21
 msgid "Only show entries from this category."
-msgstr ""
+msgstr "Montrer seulement les billets de cette catégorie"
 
 #: contents.py:22
 msgid "entries per page"
-msgstr ""
+msgstr "billets par page"
 
 #: contents.py:23
 msgid "Set to 0 to disable pagination."
-msgstr ""
+msgstr "Entrez 0 pour désactiver la pagination"
 
 #: contents.py:24
 msgid "featured only"
-msgstr ""
+msgstr "billets phares seulement"
 
 #: contents.py:25
 msgid "Only show articles marked as featured"
-msgstr ""
+msgstr "Ne montrer que les billets phares"
 
 #: contents.py:31
 msgid "Blog entry list"
-msgstr ""
+msgstr "Liste des billets"
 
 #: contents.py:32
 msgid "Blog entry lists"
-msgstr ""
+msgstr "Listes des billets"
 
 #: contents.py:67
 msgid "show empty categories?"
-msgstr ""
+msgstr "Montrer les catégories vides?"
 
 #: contents.py:71
 msgid "Blog category list"
-msgstr ""
+msgstr "Liste des catégories"
 
 #: contents.py:72
 msgid "Blog category lists"
-msgstr ""
+msgstr "Listes des catégories"
 
 #: models.py:29
 msgid "ordering"
-msgstr ""
+msgstr "Classement"
 
 #: models.py:33 models.py:102
 msgid "categories"
@@ -75,70 +75,70 @@ msgstr "catégories"
 
 #: models.py:40
 msgid "Unnamed category"
-msgstr ""
+msgstr "Catégorie sans nom"
 
 #: models.py:44
 msgid "category title"
-msgstr ""
+msgstr "Titre de la catégorie"
 
 #: models.py:45 models.py:90
 msgid "slug"
-msgstr ""
+msgstr "identifiant"
 
 #: models.py:46
 msgid "description"
-msgstr ""
+msgstr "description"
 
 #: models.py:49
 msgid "category translation"
-msgstr ""
+msgstr "traduction de la catégorie"
 
 #: models.py:50
 msgid "category translations"
-msgstr ""
+msgstr "traductions de la catégorie"
 
 #: models.py:86
 msgid "is active"
-msgstr ""
+msgstr "est actif"
 
 #: models.py:87
 msgid "is featured"
-msgstr ""
+msgstr "est phare"
 
 #: models.py:89
 msgid "title"
-msgstr ""
+msgstr "titre"
 
 #: models.py:95
 msgid "author"
-msgstr ""
+msgstr "auteur"
 
 #: models.py:96
 msgid "published on"
-msgstr ""
+msgstr "publié le"
 
 #: models.py:98
 msgid "Will be filled in automatically when entry gets published."
-msgstr ""
+msgstr "Sera complété automatiquement lorsque le billet sera publié."
 
 #: models.py:99
 msgid "last change"
-msgstr ""
+msgstr "dernier changement"
 
 #: models.py:108
 msgid "entry"
-msgstr ""
+msgstr "billet"
 
 #: models.py:109
 msgid "entries"
-msgstr ""
+msgstr "billets"
 
 #: models.py:153
 #, python-format
 msgid "One entry was successfully marked as %(state)s"
 msgid_plural "%(count)s entries were successfully marked as %(state)s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Un billet a été marqué avec succès comme %(state)s"
+msgstr[1] "%(count)s billets on été marqués avec succès comme %(state)s"
 
 #: views.py:172
 #, python-format
@@ -149,31 +149,31 @@ msgstr ""
 
 #: extensions/blogping.py:20
 msgid "sleeping"
-msgstr ""
+msgstr "inactif"
 
 #: extensions/blogping.py:21 extensions/blogping.py:34
 msgid "queued"
-msgstr ""
+msgstr "en attente"
 
 #: extensions/blogping.py:22
 msgid "sent"
-msgstr ""
+msgstr "envoyé"
 
 #: extensions/blogping.py:23
 msgid "unknown"
-msgstr ""
+msgstr "inconnu"
 
 #: extensions/blogping.py:26
 msgid "ping"
-msgstr ""
+msgstr "ping"
 
 #: extensions/blogping.py:35
 msgid "Ping Again"
-msgstr ""
+msgstr "Pinger à nouveau"
 
 #: extensions/sites.py:11
 msgid "The sites where the blogpost should appear."
-msgstr ""
+msgstr "Les sites sur lesquelles le billet doit apparaître."
 
 #: extensions/sites.py:23
 msgid "Sites"
@@ -181,21 +181,21 @@ msgstr ""
 
 #: extensions/tags.py:8
 msgid "A comma-separated list of tags."
-msgstr ""
+msgstr "Une liste de mot clés séparés par des virgules"
 
 #: navigation_extensions/common.py:41
 msgid "blog categories"
-msgstr ""
+msgstr "catégories du blog"
 
 #: navigation_extensions/recursetree.py:13
 #: navigation_extensions/treeinfo.py:18
 msgid "Blog date"
-msgstr ""
+msgstr "Date du blog"
 
 #: navigation_extensions/recursetree.py:47
 #: navigation_extensions/treeinfo.py:44
 msgid "Blog category and date"
-msgstr ""
+msgstr "Catégorie et date du blog"
 
 #: navigation_extensions/recursetree.py:68
 #: navigation_extensions/treeinfo.py:49
@@ -210,22 +210,22 @@ msgstr "Archives"
 
 #: templates/admin/feincms/elephantblog/entry/item_editor.html:13
 msgid "Preview"
-msgstr ""
+msgstr "Prévisualisation"
 
 #: templates/content/elephantblog/entry_list.html:13
 #: templates/elephantblog/entry_archive.html:28
 #: templates/elephantblog/entry_detail.html:18
 msgid "by"
-msgstr ""
+msgstr "par"
 
 #: templates/elephantblog/entry_archive.html:5
 #: templates/elephantblog/entry_detail.html:5
 msgid "News"
-msgstr ""
+msgstr "Nouvelles"
 
 #: templates/elephantblog/entry_archive.html:9
 #: templates/elephantblog/entry_archive.html:10
 #: templates/elephantblog/entry_archive.html:11
 #: templates/elephantblog/entry_archive.html:12
 msgid "for"
-msgstr ""
+msgstr "pour"
